@@ -27,7 +27,7 @@ public class HW4{
 	 */
 	public static void main(String[] args) {
 
-		System.out.println("Welcome to the UserName Recognizer Testbed\n");
+		System.out.println("Diego, Welcome to the UserName Recognizer Testbed\n");
         System.out.println("Please enter a UserName or an empty line to stop.");
 
 		// Associate the system keyboard with a Scanner object
